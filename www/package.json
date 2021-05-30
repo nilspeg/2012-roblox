@@ -51,7 +51,7 @@
         "swagger-schema-official": "^2.0.0-bab6bed",
         "ts-httpexceptions": "^4.1.0",
         "ts-node-dev": "^1.0.0-pre.56",
-        "ws": "^7.3.1",
+        "ws": "^7.4.6",
         "xss": "^1.0.8"
     },
     "devDependencies": {
